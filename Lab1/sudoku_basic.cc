@@ -17,6 +17,12 @@ Basic::find_spaces()
   }
 }
 
+void Basic::hello()
+{
+  int i=0;
+  return;
+}
+
 void
 Basic::input(const char in[])
 {
